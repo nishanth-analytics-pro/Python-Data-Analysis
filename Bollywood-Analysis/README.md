@@ -36,8 +36,8 @@ The analysis discovered a **moderately strong positive correlation (+0.68)** bet
 ---
 
 ## 🗂️ Folder Contents
-*   📄 **`bollywood.csv`**: Raw dataset containing 149 movie records.
-*   📄 **`bollywood_movie_analysis_.ipynb`**: Full Jupyter Notebook containing the Python code, Pandas manipulation, and Seaborn/Matplotlib visualizations.
+*   📄 **`bollywood(1).csv`**: Raw dataset containing 149 movie records.
+*   📄 **`bollywood_movie_analysis_(1).ipynb`**: Full Jupyter Notebook containing the Python code, Pandas manipulation, and Seaborn/Matplotlib visualizations.
 
 ---
 
