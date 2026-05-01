@@ -38,9 +38,14 @@ Before analysis, the raw Kaggle dataset underwent a professional cleaning pipeli
 ---
 
 ## 🗂️ Folder Contents
-*   📄 **`netflix_titles.csv`**: The primary dataset.
 *   📄 **`Netflix_EDA_Analysis.ipynb`**: Full Jupyter Notebook containing the cleaning pipeline and visualization code.
 *   📂 **`screenshots/`**: Visual charts showing year-wise trends and genre distributions.
+## 📁 Dataset Information
+Source: Kaggle – Netflix Movies and TV Shows
+Size: ~7,000+ records
+Columns: Title, Director, Cast, Country, Date Added, Genre, etc.
+Format: CSV
+  
 
 ---
 
